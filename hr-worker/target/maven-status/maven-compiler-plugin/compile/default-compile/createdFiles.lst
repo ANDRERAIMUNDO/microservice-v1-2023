@@ -1,0 +1,4 @@
+com/arct/hrworker/repositories/WorkRepository.class
+com/arct/hrworker/entities/Work.class
+com/arct/hrworker/HrWorkerApplication.class
+com/arct/hrworker/resources/WorkResources.class
